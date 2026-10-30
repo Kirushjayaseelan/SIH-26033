@@ -61,6 +61,7 @@ A delivery partner picks up from the farm and delivers to the buyer.
 Payment goes straight to the farmer's account.
 Ratings and feedback improve the system.
 
+```
 Flowchart:
 
 FARMDIRECT
@@ -113,8 +114,8 @@ FARMDIRECT
                         |
           Data goes back to AI to improve
           (loop returns to AI ENGINE)
+```
 
-          
 ## Feasibility and Viability
 
 1. Feasibility
